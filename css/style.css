@@ -1,0 +1,13 @@
+body {
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.recipe {
+  text-align: center;
+}
