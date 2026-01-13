@@ -20,4 +20,9 @@ body {
 
 .ingredients {
   text-align: left;
+  font-size: medium;
+}
+
+.steps {
+  text-align: right;
 }
