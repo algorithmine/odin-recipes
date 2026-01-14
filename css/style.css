@@ -6,13 +6,8 @@ body {
 .title {
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
-  background-color: rebeccapurple;
 }
 
 .recipe {
   text-align: center;
-}
-
-.ingredients {
-  text-align: left;
 }
